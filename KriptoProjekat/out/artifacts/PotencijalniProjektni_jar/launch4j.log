@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\a\Desktop\Java\PotencijalniProjektni\out\artifacts\PotencijalniProjektni_jar\test.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\a\Desktop\Java\PotencijalniProjektni\out\artifacts\PotencijalniProjektni_jar\.
+Java min ver:	1.008.000_111
+Java max ver:	1.009.000
+Bundled JRE:	C:\Program Files\Java\jdk-13.0.1
+Check launcher:	C:\Program Files\Java\jdk-13.0.1\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jdk-13.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\a\Desktop\Java\PotencijalniProjektni\out\artifacts\PotencijalniProjektni_jar\test.exe"
+Args length:	101/32768 chars
+Exit code:	0
